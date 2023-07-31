@@ -1,0 +1,104 @@
+h1, body, html, main {
+    margin: 0;
+  }
+  
+  html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px
+  }
+
+.soup-img{
+height: 50vh;
+width: 50vw;
+padding-left: 42vh;
+}
+
+.resipe-img{
+padding-left: 69vh;
+width: 20vw;
+}
+
+.cooking-img{
+padding-left: 69vh;
+width: 20vw;
+}
+
+.container{
+    position: relative;
+}
+.titel{
+    position: absolute;
+    top: 15vh;
+    left: 56vh;
+    color: aliceblue;
+    font-size: 306%;
+    font-weight: lighter;
+}
+
+.intro{
+  
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-left: 45vh;
+  width: 45vw;
+  text-align: justify;
+  font-weight: lighter;
+  font-size: 88%;
+  color: rgba(61, 61, 61, 0.716);
+}
+
+hr{
+    margin-left: 45vh;
+    width: 45vw; 
+}
+
+
+.Directions{
+    margin-left: 45vh;
+    width: 40vw;
+    text-align: justify;
+    font-weight: lighter;
+    font-size: 80%;
+    color: rgba(61, 61, 61, 0.716);
+}
+
+.dir{
+    padding-top: 2vh;
+  padding-bottom: 2vh;
+    margin-left: 45vh;
+    width: 45vw;
+    text-align: justify;
+    font-weight: lighter;
+    font-size: 90%;
+}
+
+.Ingredients{
+    margin-left: 45vh;
+    width: 45vw;
+    text-align: justify;
+    font-weight: lighter;
+    color: rgba(61, 61, 61, 0.716);
+}
+
+.ing{
+    padding-top: 2vh;
+  padding-bottom: 2vh;
+    margin-left: 45vh;
+    width: 45vw;
+    text-align: justify;
+    font-weight: lighter;
+    font-size: 90%;
+}
+
+ul{
+    list-style-type: none;
+  }
+  ul > li {
+    text-indent: -5px;
+  }
+  ul > li:before {
+    content: "-";
+    text-indent: -5px;
+  }
+
+  
